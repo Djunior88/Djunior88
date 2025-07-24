@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Olá! Eu sou o Dêjaci Júnior.
+# 👩🏻‍💻 Olá! Bem-vindo(a) ao meu perfil do GitHub.
 
 **`Desenvolvedor Front-End`**
 
