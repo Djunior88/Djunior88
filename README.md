@@ -2,11 +2,15 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Dêjaci Júnior, tenho 26 anos e sou natural de Crateús-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir como desenvolvedor. 
+Me chamo <strong>Dêjaci Júnior</strong>, tenho 26 anos e sou natural de Crateús-CE. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou apaixonado por tecnologia e estou sempre buscando aprender e evoluir como desenvolvedor. 
 
 <div> 
-  <a href = "mailto:dejacijunior88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/d%C3%AAjaci-j%C3%BAnior-874a10312/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="mailto:dejacijunior88@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
+ <a href="https://www.linkedin.com/in/d%C3%AAjaci-j%C3%BAnior-874a10312/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a> 
 </div>
 
 ---
